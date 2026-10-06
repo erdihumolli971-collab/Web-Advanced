@@ -1,0 +1,14 @@
+#name_eror{
+    visibility: hidden;
+    color:red;
+}
+
+#age_eror{
+    visibility: hidden;
+    color:red;
+}
+
+#city_eror{
+    visibility: hidden;
+    color:red;
+}
